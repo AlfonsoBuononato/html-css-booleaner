@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+}
+
+.container-img{
+  background-image: url("../img/pattern.png");
+  background-size: 25%;
+  background-color: cornflowerblue;
+}
+
+.title-img{
+  width: 80%;
+  margin: auto;
+}
+.logo{
+  width: 20%;
+  height: 20%;
+  margin-top: 40px;
+}
+
+.contenuto{
+  width: 80%;
+  margin: auto;
+}
+
+h1{
+  font-size: 40px;
+}
+.paragrafo{
+  margin-top: 25px;
+}
+.lista-item{
+  padding: 15px;
+}
+table{
+  border-spacing: 0;
+  margin-top: 20px;
+}
+
+thead{
+  text-align: left;
+}
+.tabella-riga1 , .tabella-riga2{
+  width: 300px;
+  background-color: dodgerblue;
+  color: white;
+}
+.tabella-riga3{
+  width: 450px;
+  background-color: dodgerblue;
+  color: white;
+}
+.colore-riga{
+  background-color: lightskyblue;
+}
+
+#background1{
+  width: 170px;
+  height: 150px;
+  color: white;
+  padding: 10px;
+  background-image: url("../img/monitor.jpg");
+  background-position: center;
+}
+#background2{
+  width: 170px;
+  height: 150px;
+  color: white;
+  padding: 10px;
+  background-image: url("../img/graph.jpg");
+  background-position: center;
+  margin-top: 10px;
+}
+#color1{
+  color: gray;
+}
+#color2{
+  color: dodgerblue;
+}
+#color3{
+  color: gray;
+  margin-bottom: 20px;
+}
+#color4{
+  background-color: yellow;
+}
+#color5{
+  background-color: yellow;
+}
+
+#color6{
+  color: gray;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}

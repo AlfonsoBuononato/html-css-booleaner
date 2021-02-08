@@ -1,0 +1,118 @@
+*{
+  margin: 0;
+}
+
+.container-img{
+  background-image: url(../img/pattern.png);
+  background-color: black;
+}
+
+.title-img{
+  width: 50%;
+  margin: auto;
+}
+.logo{
+}
+
+.contenuto{
+  width: 80%;
+  margin: auto;
+}
+
+h1{
+  font-size: 45px;
+  text-align: center;
+}
+
+h4{
+  margin-top: 20px;
+}
+
+h6{
+  font-style: italic;
+}
+
+.paragrafo{
+  margin: 20px 0px 10px 0px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.lista-item{
+  padding: 20px;
+  list-style: lower-alpha;
+  line-height: 25px;
+  background-color: #6e7788;
+}
+li{
+  background-color: #49b8f1;
+  color: white;
+}
+table{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  border-spacing: 0;
+}
+
+thead{
+  text-align: left;
+  background-color: #6e7788;
+  color: white;
+}
+.tabella-riga1 , .tabella-riga2{
+  width: 200px;
+}
+.tabella-riga3{
+  width: 450px;
+  font-style: italic;
+}
+.colore-riga{
+}
+.ultima-colonna{
+  font-style: italic;
+}
+
+#background1{
+  width: 250px;
+  height: 200px;
+  color: white;
+  padding: 10px;
+  margin: auto;
+  background-image: url("../img/monitor.jpg");
+  background-position: center;
+
+}
+#background2{
+  width: 250px;
+  height: 200px;
+  color: white;
+  padding: 10px;
+  margin: auto;
+  background-image: url("../img/graph.jpg");
+  background-position: center;
+  margin-top: 10px;
+}
+#color1{
+  font-size: 17px;
+}
+#color2{
+  font-size: 20px;
+  font-style: italic;
+}
+#color3{
+  font-style: italic;
+}
+#color4{
+  color: red;
+  font-style: italic;
+}
+#color5{
+  color: red;
+  font-style: italic;
+}
+
+#color6{
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
